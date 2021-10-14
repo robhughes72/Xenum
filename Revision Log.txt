@@ -1,0 +1,4 @@
+
+10/12/2021 - Version 1.0
+
+Baseline port scanner with a full TCP scan using Masscan, followed by a TCP service enumeration from discovered ports (through Masscan) and an optional UDP scan. 
